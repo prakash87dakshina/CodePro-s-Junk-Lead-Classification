@@ -36,7 +36,7 @@
 
 
 ## Contact
-Created by [@mallikarjuna-manne] - feel free to contact me!
+Created by [@prakash-dakshina] - feel free to contact me!
 
 
 <!-- Optional -->
